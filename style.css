@@ -1,0 +1,22 @@
+#number {
+    display: none;
+    font-size: 70px;
+}
+#question {
+    font-size: 30px;
+}
+
+body {
+  background-color: lightblue;
+}
+#title{
+  font-size: 70px;
+}
+
+#btn{
+  font-size: 30px;
+}
+
+#reloadbtn{
+    font-size: 20px;
+  }
